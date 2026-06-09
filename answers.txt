@@ -9,3 +9,7 @@ Answer: It could be applied to lots of fields including venture capital, IB etc.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: merging takes two branches and "merges" them together while rebase moves the branch commits so they start from another branch
+
+Q4: What are you looking forward to this semester?
+
+Answer: Looking forward to learning more about data sci
