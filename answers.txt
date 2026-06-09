@@ -5,3 +5,7 @@ Answer: We use git for version control so its easy to mantain codebases, track d
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: It could be applied to lots of fields including venture capital, IB etc.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merging takes two branches and "merges" them together while rebase moves the branch commits so they start from another branch
